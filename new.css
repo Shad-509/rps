@@ -85,7 +85,11 @@ body {
 #results {
   font-size: 2rem;
   font-weight: 700;
+<<<<<<< HEAD
   color: #ccc
+=======
+  color: #ccc;
+>>>>>>> login
 }
 
 #rock {
@@ -99,7 +103,11 @@ body {
 }
 
 #paper {
+<<<<<<< HEAD
    background-color: #bbb;
+=======
+  background-color: #bbb;
+>>>>>>> login
   border-radius: 50%;
   border-width: 4px;
   border-style: solid;
@@ -109,7 +117,11 @@ body {
 }
 
 #scissors {
+<<<<<<< HEAD
    background-color: #bbb;
+=======
+  background-color: #bbb;
+>>>>>>> login
   border-radius: 50%;
   border-width: 4px;
   border-style: solid;
